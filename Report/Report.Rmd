@@ -47,3 +47,4 @@ Consider the logNormal data plotted in Figure \ref{fig:histogram}.
 
 $$s^2 = \sum_{i=1}^n (x_i-\bar{x})^2$$
 
+Added by Cyrus 
