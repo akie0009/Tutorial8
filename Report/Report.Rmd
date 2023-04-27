@@ -72,5 +72,6 @@ covidrate_vis <- covid %>%
 
 Added by Cyrus 3
 
+make changes
 
 
